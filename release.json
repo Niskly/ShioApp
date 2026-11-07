@@ -1,10 +1,11 @@
 {
-  "version": "1.6.1",
-  "versionCode": 10,
+  "version": "1.6.2",
+  "versionCode": 11,
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
-    "Fixed the logo on the launch screen (it now uses your theme's colours properly)",
-    "What's new: version centred, list scrolls after 4 notes"
+    "Series: each source's chapters show up as soon as that source loads",
+    "Empty screens match the website (icon box, title, short note)",
+    "Sources page: centred loading spinner"
   ]
 }
