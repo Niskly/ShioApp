@@ -1,16 +1,10 @@
 {
-  "version": "1.6.0",
-  "versionCode": 9,
+  "version": "1.6.1",
+  "versionCode": 10,
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
-    "Profile: avatar and name sit on the banner, bottom-left (like the website)",
-    "Splash screen matches your app theme (Android 13+)",
-    "\"What's new\" shows after every update",
-    "Import / Export is its own page, with a Connect section (coming soon)",
-    "Sources page: loading spinner instead of \"No results found\"",
-    "New Chapters: above Continue Reading, filter by status",
-    "Animated avatar decorations (profile + top bar)",
-    "Library cards show your status and when you changed it"
+    "Fixed the logo on the launch screen (it now uses your theme's colours properly)",
+    "What's new: version centred, list scrolls after 4 notes"
   ]
 }
