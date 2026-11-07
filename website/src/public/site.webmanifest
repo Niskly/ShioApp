@@ -1,0 +1,19 @@
+{
+  "name": "Shio",
+  "short_name": "Shio",
+  "icons": [
+    {
+      "src": "/img/shio.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/shio.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0d1520",
+  "background_color": "#0d1520",
+  "display": "standalone"
+}

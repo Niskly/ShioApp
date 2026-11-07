@@ -1,0 +1,16 @@
+{
+	"extends": [
+		"config:recommended"
+	],
+	"labels": [
+		"Dependencies"
+	],
+	"packageRules": [
+		{
+			"groupName": "dependencies",
+			"matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+			"automerge": true
+		}
+	],
+	"schedule": ["on sunday"]
+}
