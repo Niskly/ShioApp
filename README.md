@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://aquasan.vercel.app">
+<a href="https://shioapp.up.railway.app">
     <img src="./.github/assets/logo.png" alt="Shio logo" title="Shio logo" width="80"/>
 </a>
 
@@ -19,7 +19,7 @@ Get the latest APK directly:
 https://github.com/Niskly/ShioApp/blob/main/shio.apk?raw=true
 ```
 
-Or visit the **[download page](https://aquasan.vercel.app/download/)** on our site.
+Or visit the **[download page](https://shioapp.up.railway.app/download/)** on our site.
 
 > Requires Android 8.0 or higher.
 
@@ -34,7 +34,7 @@ Or visit the **[download page](https://aquasan.vercel.app/download/)** on our si
 
 ## Website
 
-The source for [aquasan.vercel.app](https://aquasan.vercel.app) lives in the `website/` directory, built with [VitePress](https://vitepress.dev).
+The source for [shioapp.up.railway.app](https://shioapp.up.railway.app) lives in the `website/` directory, built with [VitePress](https://vitepress.dev).
 
 ```bash
 cd website
