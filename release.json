@@ -1,11 +1,14 @@
 {
-  "version": "1.6.2",
-  "versionCode": 11,
+  "version": "1.6.3",
+  "versionCode": 12,
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
-    "Series: each source's chapters show up as soon as that source loads",
-    "Empty screens match the website (icon box, title, short note)",
-    "Sources page: centred loading spinner"
+    "App icon follows your theme (changes after you leave the app)",
+    "Custom theme: build your own colours (Settings \u2192 App theme \u2192 Custom)",
+    "Edit avatar with a Decoration tab, Edit banner (pencil on your profile)",
+    "Display name, avatar and banner save to shios.me",
+    "History shows times like Library, decorations on every top bar",
+    "Profile banner fades into the page"
   ]
 }
