@@ -4,6 +4,7 @@
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
+    "Profile: avatar and name sit on the banner, bottom-left (like the website)",
     "Splash screen matches your app theme (Android 13+)",
     "\"What's new\" shows after every update",
     "Import / Export is its own page, with a Connect section (coming soon)",
