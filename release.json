@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "date": "2026-11-07T21:00:00Z",
+  "min_android": "8.0",
+  "notes": [
+    "New look that matches the website: Shio theme, flat bars, black borders",
+    "Search bar moved under the genres in Browse",
+    "Series page: long titles no longer push the info below the cover",
+    "Bigger Read button icon",
+    "Chapters load faster on the first series you open",
+    "Smoother scrolling (non-debuggable build)",
+    "Themed app icon on Android 13+ launchers"
+  ]
+}
