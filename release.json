@@ -1,13 +1,10 @@
 {
-  "version": "1.5.0",
-  "versionCode": 6,
+  "version": "1.5.1",
+  "versionCode": 7,
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
-    "In-app updates: get new versions without opening the website",
-    "Log in with your shios.me account (library and history sync)",
-    "New Chapters from your Comick follows on Home",
-    "Import from Comick, Comix, MyAnimeList and AniList",
-    "Latest Updates: 3-dot menu and 2 cards per row"
+    "Profile banner goes edge to edge with your avatar centred on it",
+    "Section titles show just the name (no \"\u00b7 Top\" / \"\u00b7 7 days\")"
   ]
 }
