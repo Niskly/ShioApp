@@ -1,10 +1,16 @@
 {
-  "version": "1.7.1",
-  "versionCode": 14,
-  "date": "2026-11-07",
+  "version": "1.8.0",
+  "versionCode": 15,
+  "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Profile no longer shows \"G \u2026\" when it loads slowly or you're offline",
-    "History: Select shows Cancel until you pick something"
+    "Anime mode: Manga / Anime switch on Home, the whole app follows it",
+    "Anime Home: History, Trending, Popular, Schedule and Recently Updated",
+    "Anime series page with episode grid / list, cast and recommendations",
+    "New video player: opens fullscreen, auto rotates, swipe to seek, brightness and volume",
+    "Player: servers, Sub / Dub, subtitles, speed, quality, skip intro / outro, auto next, picture-in-picture",
+    "Anime library syncs with your shios.me account",
+    "Library and source lists show 2 cards per row",
+    "Home: Latest Updates is now Recently Updated"
   ]
 }
