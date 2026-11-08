@@ -1,10 +1,17 @@
 {
-  "version": "1.13.0",
-  "versionCode": 31,
+  "version": "1.13.1",
+  "versionCode": 32,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "App lock: fingerprint, face or phone PIN (Settings → Account)"
+    "Settings redo: Mihon-style rows, new Security and privacy page",
+    "Reader settings: every option in one place",
+    "Downloads: Wi-Fi only, delete after reading, storage used",
+    "Downloads page: anime and manga together under Saved",
+    "Notifications: Today header, All / Manga / Anime filter, uses Comick New chapters",
+    "Series pages: bold headers, Episodes: count, cleaner episode cards",
+    "Extensions: All / 18+ filter as a sheet",
+    "Fixed ToonTop chapter order (One Piece)"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
