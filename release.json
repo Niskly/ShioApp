@@ -6,5 +6,6 @@
   "notes": [
     "Account check runs invisibly in the background, no captcha to solve",
     "Verification email still sends when shios.me is down"
-  ]
+  ],
+  "captcha_url": "https://shio-captcha.itsnisk.workers.dev"
 }
