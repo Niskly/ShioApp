@@ -1,18 +1,13 @@
 {
-  "version": "1.8.1",
-  "versionCode": 16,
+  "version": "1.8.2",
+  "versionCode": 17,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Fixed a crash in the video player",
-    "If the app ever crashes, the next launch shows a report you can copy",
-    "Player: landscape menus open as a side panel, lock button centred, ±10s on the sides, labels on the top buttons",
-    "Anime Home: History uses wide Continue Watching cards with the frame you stopped on",
-    "Anime series: WebView button, characters above the episodes",
-    "18+ anime follows the content rating exactly like the website",
-    "Custom themes now change the app icon and launch screen; no more colour flash on start",
-    "Uses much less storage: smaller caches, cleaned automatically, Clear cache in Settings",
-    "Imports and password reset work even when shios.me is down",
-    "Manga / Anime switch centred; Home rows show exactly 3 cards"
+    "Anime history syncs with shios.me (both ways), so episodes you watched on the website show up",
+    "Library: last bookmarked first, time shows when you bookmarked it",
+    "Syncs again whenever you come back to the app",
+    "Import / Export: separate Manga and Anime sections, import anime from MyAnimeList or AniList, export your anime list",
+    "Player: ±10s back next to play / pause, skipping shows a side overlay that adds up as you tap"
   ]
 }
