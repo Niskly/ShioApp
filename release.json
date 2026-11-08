@@ -1,17 +1,18 @@
 {
-  "version": "1.17.0",
-  "versionCode": 37,
+  "version": "1.18.0",
+  "versionCode": 38,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
     "Anime extensions (Yūzōnō, plays in the Shio player)",
     "Manga and anime extensions on separate pages",
+    "Add repos from shios.me/downloads",
     "Devices: see and sign out other phones",
     "Auto backup, storage limit, export logs",
     "Settings: fewer tabs, Comick connection redone",
     "Browse layout, cards per row on Home, no genre chips",
     "Pure black icon and launch screen",
-    "Series pages: Chapters / Episodes count, next episode time, download button",
+    "Series pages: Chapters / Episodes count, next episode time",
     "Notifications and profile fixes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
