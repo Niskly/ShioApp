@@ -1,13 +1,11 @@
 {
-  "version": "1.11.0",
-  "versionCode": 25,
+  "version": "1.11.1",
+  "versionCode": 26,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Extensions: Browse → Sources → Outsourced → Manage. Install Keiyoushi (Mihon) sources, filter by language; 18+ ones only with Pornographic allowed",
-    "Sources tab: Local / Outsourced switch",
-    "Reader: Fullscreen option (Settings → Reader and the reader sheet)",
-    "Player: subtitle position fix"
+    "Extensions: Cloudflare-protected sources work (Keiyoushi 'CloudflareInterceptor' error fixed)",
+    "Extensions page: one-line title; Languages / Refresh moved next to the headers; All / 18+ filter for Installed and Available"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
