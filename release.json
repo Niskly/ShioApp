@@ -1,13 +1,19 @@
 {
-  "version": "1.8.7",
-  "versionCode": 22,
+  "version": "1.9.0",
+  "versionCode": 23,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Browse (manga + anime): search works like Library and History, from the top bar",
-    "Player: skipping overlay no longer flashes the other side, shows Skipping then the seconds",
-    "Anime series: next episode date in white",
-    "Reader: chapter end sits closer to the page, Previous / Next always accent"
+    "Settings: cleaner hub with a page per section",
+    "Import / Export rebuilt: import manga or anime from Comick, Comix, MyAnimeList, AniList or Shio; export in every format",
+    "Download anime episodes and watch them offline",
+    "Anime watch history now saves, in the app and on shios.me",
+    "Library: filters (status, read, downloaded, source, genres) and sorting",
+    "Player: errors look like the website, subtitles sit higher and stay on screen in Fill / Stretch, darker skip overlay, seek bar uses it too",
+    "Custom themes get a much closer app icon and launch screen",
+    "Reader: page no longer jumps when the controls show / hide",
+    "Sources tab has search; Browse header and buttons tidied up",
+    "Lots of small fixes: Manga / Anime switch, titles in --text, character names, history card X removed"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev"
 }
