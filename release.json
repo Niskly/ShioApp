@@ -1,19 +1,13 @@
 {
-  "version": "1.18.0",
-  "versionCode": 38,
+  "version": "1.18.1",
+  "versionCode": 39,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Anime extensions (Yūzōnō, plays in the Shio player)",
-    "Manga and anime extensions on separate pages",
-    "Add repos from shios.me/downloads",
-    "Devices: see and sign out other phones",
-    "Auto backup, storage limit, export logs",
-    "Settings: fewer tabs, Comick connection redone",
-    "Browse layout, cards per row on Home, no genre chips",
-    "Pure black icon and launch screen",
-    "Series pages: Chapters / Episodes count, next episode time",
-    "Notifications and profile fixes"
+    "AniList anime gets servers from your anime extensions",
+    "Bold titles on Home, series and Notifications",
+    "Notifications look like History",
+    "Devices: tap a device to sign it out"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
