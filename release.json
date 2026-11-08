@@ -1,17 +1,18 @@
 {
-  "version": "1.13.1",
-  "versionCode": 32,
+  "version": "1.15.0",
+  "versionCode": 34,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Settings redo: Mihon-style rows, new Security and privacy page",
-    "Reader settings: every option in one place",
-    "Downloads: Wi-Fi only, delete after reading, storage used",
-    "Downloads page: anime and manga together under Saved",
-    "Notifications: Today header, All / Manga / Anime filter, uses Comick New chapters",
-    "Series pages: bold headers, Episodes: count, cleaner episode cards",
-    "Extensions: All / 18+ filter as a sheet",
-    "Fixed ToonTop chapter order (One Piece)"
+    "Settings redo: Mihon-style rows, Security and privacy, Browse, Advanced",
+    "Reader: crop borders, double pages, auto scroll, brightness",
+    "Player: default quality, seek length, double tap, speed per show",
+    "Downloads: Wi-Fi only, at once, auto-download new chapters, delete after reading / watching",
+    "Appearance: pure black, cards per row, library list, date format",
+    "Notifications: quiet hours, mute series, Today header, uses Comick New chapters",
+    "Downloads page: anime and manga together",
+    "Series pages: bold headers, cleaner episode cards",
+    "Fixed ToonTop chapter order"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
