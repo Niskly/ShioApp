@@ -1,11 +1,10 @@
 {
-  "version": "1.8.5",
-  "versionCode": 20,
+  "version": "1.8.6",
+  "versionCode": 21,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Reader: next / previous chapter works across every source of the series (Asura 15 → Lagoon 16)",
-    "Reader: new chapter end with Finished and Next side by side, Previous / Next buttons",
-    "Downloads: Select → Delete (n) like History, summary strip removed"
+    "Account check runs invisibly in the background, no captcha to solve",
+    "Verification email still sends when shios.me is down"
   ]
 }
