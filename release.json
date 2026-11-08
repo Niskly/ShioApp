@@ -1,14 +1,12 @@
 {
-  "version": "1.12.0",
-  "versionCode": 29,
+  "version": "1.12.1",
+  "versionCode": 30,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Notifications: new chapters and episodes from your library, checked in the background (Profile → Notifications)",
-    "Settings → Notifications: manga / anime, how often, Wi-Fi only, phone alerts",
-    "Sources moved to Profile → Sources; Browse is just Browse now",
-    "Global search follows the tab (Local / Outsourced) and is on the Extensions page too",
-    "18+ extensions show with Erotica or Pornographic on"
+    "Notifications: daily check, refresh shows today's chapters",
+    "Pick which statuses to check",
+    "Source names stay on one line"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
