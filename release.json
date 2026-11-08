@@ -1,14 +1,10 @@
 {
-  "version": "1.7.0",
-  "versionCode": 13,
+  "version": "1.7.1",
+  "versionCode": 14,
   "date": "2026-11-07",
   "min_android": "8.0",
   "notes": [
-    "Downloads: save chapters and read them offline (Profile \u2192 Downloads)",
-    "Choose where downloads go (Settings \u2192 Downloads)",
-    "Offline screen when there's no internet",
-    "History: select several and delete them at once",
-    "Home: History row with a reading progress bar (synced with shios.me)",
-    "Chapter list: group and date on one line, download button on the right"
+    "Profile no longer shows \"G \u2026\" when it loads slowly or you're offline",
+    "History: Select shows Cancel until you pick something"
   ]
 }
