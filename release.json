@@ -15,5 +15,6 @@
     "Sources tab has search; Browse header and buttons tidied up",
     "Lots of small fixes: Manga / Anime switch, titles in --text, character names, history card X removed"
   ],
-  "captcha_url": "https://shio-captcha.shioapp.workers.dev"
+  "captcha_url": "https://shio-captcha.shioapp.workers.dev",
+  "lists_version": 202611081521
 }
