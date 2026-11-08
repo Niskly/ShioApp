@@ -1,12 +1,10 @@
 {
-  "version": "1.12.1",
-  "versionCode": 30,
+  "version": "1.13.0",
+  "versionCode": 31,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Notifications: daily check, refresh shows today's chapters",
-    "Pick which statuses to check",
-    "Source names stay on one line"
+    "App lock: fingerprint, face or phone PIN (Settings → Account)"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
