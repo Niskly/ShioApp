@@ -1,15 +1,18 @@
 {
-  "version": "1.16.0",
-  "versionCode": 36,
+  "version": "1.17.0",
+  "versionCode": 37,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Anime extensions (Yūzōnō repo, plays in the Shio player)",
+    "Anime extensions (Yūzōnō, plays in the Shio player)",
+    "Manga and anime extensions on separate pages",
+    "Devices: see and sign out other phones",
+    "Auto backup, storage limit, export logs",
     "Settings: fewer tabs, Comick connection redone",
-    "Browse layout and cards per row on Home",
+    "Browse layout, cards per row on Home, no genre chips",
     "Pure black icon and launch screen",
-    "Notifications and profile fixes",
-    "Episode downloads show why they fail"
+    "Series pages: Chapters / Episodes count, next episode time, download button",
+    "Notifications and profile fixes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
