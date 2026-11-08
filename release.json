@@ -1,10 +1,11 @@
 {
-  "version": "1.8.4",
-  "versionCode": 19,
+  "version": "1.8.5",
+  "versionCode": 20,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Updates download reliably: retries and backup mirrors when GitHub fails",
-    "Anime filters: every AniList genre and tag (with search) and From / To year"
+    "Reader: next / previous chapter works across every source of the series (Asura 15 → Lagoon 16)",
+    "Reader: new chapter end with Finished and Next side by side, Previous / Next buttons",
+    "Downloads: Select → Delete (n) like History, summary strip removed"
   ]
 }
