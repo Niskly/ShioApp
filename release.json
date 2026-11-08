@@ -1,13 +1,15 @@
 {
-  "version": "1.15.1",
-  "versionCode": 35,
+  "version": "1.16.0",
+  "versionCode": 36,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "New settings: reader, player, downloads, appearance, browse, advanced",
-    "Notifications: quiet hours, mute, today view",
-    "Cleaner pages and headers",
-    "Fixed ToonTop chapter order"
+    "Anime extensions (Yūzōnō repo, plays in the Shio player)",
+    "Settings: fewer tabs, Comick connection redone",
+    "Browse layout and cards per row on Home",
+    "Pure black icon and launch screen",
+    "Notifications and profile fixes",
+    "Episode downloads show why they fail"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
