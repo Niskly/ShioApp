@@ -1,11 +1,12 @@
 {
-  "version": "1.11.1",
-  "versionCode": 26,
+  "version": "1.11.2",
+  "versionCode": 27,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Extensions: Cloudflare-protected sources work (Keiyoushi 'CloudflareInterceptor' error fixed)",
-    "Extensions page: one-line title; Languages / Refresh moved next to the headers; All / 18+ filter for Installed and Available"
+    "Extensions: Keiyoushi sources load (fixed the CompressionInterceptor crash)",
+    "Reader: opens where you left off; finished chapters open at the end",
+    "Profile: content rating shows Pornographic, long values get …"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
