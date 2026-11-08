@@ -1,12 +1,14 @@
 {
-  "version": "1.11.2",
-  "versionCode": 27,
+  "version": "1.11.3",
+  "versionCode": 28,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Extensions: Keiyoushi sources load (fixed the CompressionInterceptor crash)",
-    "Reader: opens where you left off; finished chapters open at the end",
-    "Profile: content rating shows Pornographic, long values get …"
+    "Global search: Browse → Sources → search icon searches every source at once",
+    "Extensions: source filters, source settings and in-app WebView (pass Cloudflare / log in)",
+    "Extension chapter dates show like the rest (3 d ago)",
+    "Series page: chapters load before showing 'No sources'; new empty state with an Extensions button",
+    "Extensions page: Installed header stays with the 18+ filter; better empty states"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
