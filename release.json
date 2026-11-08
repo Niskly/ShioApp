@@ -1,17 +1,12 @@
 {
-  "version": "1.15.0",
-  "versionCode": 34,
+  "version": "1.15.1",
+  "versionCode": 35,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Settings redo: Mihon-style rows, Security and privacy, Browse, Advanced",
-    "Reader: crop borders, double pages, auto scroll, brightness",
-    "Player: default quality, seek length, double tap, speed per show",
-    "Downloads: Wi-Fi only, at once, auto-download new chapters, delete after reading / watching",
-    "Appearance: pure black, cards per row, library list, date format",
-    "Notifications: quiet hours, mute series, Today header, uses Comick New chapters",
-    "Downloads page: anime and manga together",
-    "Series pages: bold headers, cleaner episode cards",
+    "New settings: reader, player, downloads, appearance, browse, advanced",
+    "Notifications: quiet hours, mute, today view",
+    "Cleaner pages and headers",
     "Fixed ToonTop chapter order"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
