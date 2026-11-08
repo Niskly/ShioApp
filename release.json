@@ -1,11 +1,12 @@
 {
-  "version": "1.18.1",
-  "versionCode": 39,
+  "version": "1.18.2",
+  "versionCode": 40,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
+    "Videos start as soon as the first server is ready",
     "AniList anime gets servers from your anime extensions",
-    "Bold titles on Home, series and Notifications",
+    "Bold series titles everywhere",
     "Notifications look like History",
     "Devices: tap a device to sign it out"
   ],
