@@ -1,19 +1,13 @@
 {
-  "version": "1.10.0",
-  "versionCode": 24,
+  "version": "1.11.0",
+  "versionCode": 25,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Connect Comick straight from the app (Settings \u2192 Connections), no shios.me needed; New Chapters for everyone",
-    "Smarter source matching: close-enough titles, live site search, fresh source lists, and fix a wrong match yourself",
-    "Verify email and reset password open right in the app",
-    "Title language: English, Romaji or Native (Settings \u2192 Content)",
-    "Player: auto play and auto next are separate, subtitle position (Bottom / Bottom middle)",
-    "Fullscreen for the whole app (Settings \u2192 Appearance)",
-    "Custom theme: import / export, works with website themes",
-    "Profile: Log in / Log out row, cancel buttons removed from sheets",
-    "ToonTop chapters show every page again",
-    "No more divider under the top bar on Home and Browse"
+    "Extensions: Browse → Sources → Outsourced → Manage. Install Keiyoushi (Mihon) sources, filter by language; 18+ ones only with Pornographic allowed",
+    "Sources tab: Local / Outsourced switch",
+    "Reader: Fullscreen option (Settings → Reader and the reader sheet)",
+    "Player: subtitle position fix"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
