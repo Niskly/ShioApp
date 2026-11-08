@@ -1,14 +1,10 @@
 {
-  "version": "1.8.3",
-  "versionCode": 18,
+  "version": "1.8.4",
+  "versionCode": 19,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Welcome: new font step with previews, download folder step, profile step removed",
-    "What's new: the Update button keeps its colour while downloading",
-    "Settings: \"You're up to date\" only has OK",
-    "Guest profile: person icon, no stats line",
-    "Manga / Anime switch sits exactly between Shio and search",
-    "Profile sections get the neo border"
+    "Updates download reliably: retries and backup mirrors when GitHub fails",
+    "Anime filters: every AniList genre and tag (with search) and From / To year"
   ]
 }
