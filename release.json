@@ -1,13 +1,14 @@
 {
-  "version": "1.8.2",
-  "versionCode": 17,
+  "version": "1.8.3",
+  "versionCode": 18,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Anime history syncs with shios.me (both ways), so episodes you watched on the website show up",
-    "Library: last bookmarked first, time shows when you bookmarked it",
-    "Syncs again whenever you come back to the app",
-    "Import / Export: separate Manga and Anime sections, import anime from MyAnimeList or AniList, export your anime list",
-    "Player: ±10s back next to play / pause, skipping shows a side overlay that adds up as you tap"
+    "Welcome: new font step with previews, download folder step, profile step removed",
+    "What's new: the Update button keeps its colour while downloading",
+    "Settings: \"You're up to date\" only has OK",
+    "Guest profile: person icon, no stats line",
+    "Manga / Anime switch sits exactly between Shio and search",
+    "Profile sections get the neo border"
   ]
 }
