@@ -1,14 +1,14 @@
 {
-  "version": "1.11.3",
-  "versionCode": 28,
+  "version": "1.12.0",
+  "versionCode": 29,
   "date": "2026-11-08",
   "min_android": "8.0",
   "notes": [
-    "Global search: Browse → Sources → search icon searches every source at once",
-    "Extensions: source filters, source settings and in-app WebView (pass Cloudflare / log in)",
-    "Extension chapter dates show like the rest (3 d ago)",
-    "Series page: chapters load before showing 'No sources'; new empty state with an Extensions button",
-    "Extensions page: Installed header stays with the 18+ filter; better empty states"
+    "Notifications: new chapters and episodes from your library, checked in the background (Profile → Notifications)",
+    "Settings → Notifications: manga / anime, how often, Wi-Fi only, phone alerts",
+    "Sources moved to Profile → Sources; Browse is just Browse now",
+    "Global search follows the tab (Local / Outsourced) and is on the Extensions page too",
+    "18+ extensions show with Erotica or Pornographic on"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
