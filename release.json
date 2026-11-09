@@ -1,25 +1,10 @@
 {
-  "version": "1.31.0",
-  "versionCode": 57,
+  "version": "1.31.1",
+  "versionCode": 58,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
-    "Fixed: Profile, library and history sync (Shio now talks to the database like shios.me)",
-    "New: Connect AniList (Settings → Account): anime, novel and manga lists and progress sync",
-    "New: Novel mode (tap the Home title to switch Manga / Anime / Novel)",
-    "New: Novel extensions (NovelSourcery repo) with Link novel extensions",
-    "New: Novel Home, Browse, series pages, text reader with settings",
-    "New: Related / Recommended row on anime and novel series pages",
-    "New: Sources grouped as Manga / Anime / Novel · English, disable built-in anime servers",
-    "New: Each Extensions page only shows its own repos",
-    "New: One Shio folder for downloads, daily backups and logs",
-    "New: Change your username in Settings → Account",
-    "New: Comick stays connected to your Shio account",
-    "Changed: Bigger avatar in the editor, decorations sized like the profile",
-    "Changed: Sources: All header on every series page, empty states without buttons",
-    "Changed: Mihon-style empty states on every page",
-    "Fixed: App icon and splash colour with Pure black and custom themes",
-    "Fixed: An extension that crashes Shio is turned off, so the app doesn't keep closing on start"
+    "Novel downloads, fixed novel extensions not loading"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
