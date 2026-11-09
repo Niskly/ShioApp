@@ -1,11 +1,11 @@
 {
-  "version": "1.26.1",
-  "versionCode": 51,
+  "version": "1.26.2",
+  "versionCode": 52,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
     "New: One Shio folder for downloads, daily backups and logs (pick it in the welcome screen or Settings → Downloads)",
-    "New: Turn off built-in sources in Sources → Local",
+    "New: Disable or activate built-in sources in Sources → Local",
     "New: Change your username in Settings → Account",
     "New: Comick stays connected to your Shio account, so it comes back after logging in on any device",
     "Changed: Comick needs a Shio login to connect",
