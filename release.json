@@ -1,15 +1,18 @@
 {
-  "version": "1.18.3",
-  "versionCode": 41,
-  "date": "2026-11-08",
+  "version": "1.18.4",
+  "versionCode": 42,
+  "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
+    "Notifications every 30 min, wait for internet when offline",
+    "Fixed App lock Lock after",
+    "Fixed MangaDNA pages",
+    "Hide novels in our sources",
+    "Fixed extensions failing to load chapters / episodes",
+    "Reader: no reload when scrolling back, preload setting",
     "Videos start as soon as the first server is ready",
     "AniList anime gets servers from your anime extensions",
-    "Bold series titles everywhere",
-    "Manga / Anime groups on Sources",
-    "Notifications look like History",
-    "Devices: tap a device to sign it out"
+    "Bold series titles everywhere"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
