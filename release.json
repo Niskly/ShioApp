@@ -1,6 +1,6 @@
 {
-  "version": "1.30.0",
-  "versionCode": 56,
+  "version": "1.31.0",
+  "versionCode": 57,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
@@ -15,6 +15,7 @@
     "New: One Shio folder for downloads, daily backups and logs",
     "New: Change your username in Settings → Account",
     "New: Comick stays connected to your Shio account",
+    "Changed: Bigger avatar in the editor, decorations sized like the profile",
     "Changed: Sources: All header on every series page, empty states without buttons",
     "Changed: Mihon-style empty states on every page",
     "Fixed: App icon and splash colour with Pure black and custom themes",
