@@ -1,13 +1,12 @@
 {
-  "version": "1.24.0",
-  "versionCode": 48,
+  "version": "1.25.0",
+  "versionCode": 49,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
     "New: Character and staff pages with bio, details, voice actors and their anime and manga",
     "New: Characters / Staff row on anime and manga series pages",
     "New: Stats page with totals, activity grid, streaks, status, genres and most read",
-    "New: Profile layout with a stats strip, Library and Data groups, Log out at the bottom",
     "New: In library filter in the Browse sort menu",
     "New: Pull down to refresh on Browse, sources, series pages and Notifications",
     "New: Link manga extensions switch (Settings → Extensions)",
