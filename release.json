@@ -1,10 +1,10 @@
 {
-  "version": "1.31.1",
-  "versionCode": 58,
+  "version": "1.31.2",
+  "versionCode": 59,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
-    "Novel downloads, fixed novel extensions not loading"
+    "Novel downloads, fixed novel extensions, Shio folder required on welcome"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
