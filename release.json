@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "versionCode": 43,
+  "version": "1.20.0",
+  "versionCode": 44,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
@@ -13,7 +13,7 @@
     "Reader: no reload when scrolling back, new Preload setting",
     "App lock 'Lock after' fixed",
     "Novels hidden from source lists, MangaDNA pages fixed, clearer extension errors",
-    "Global search: faster, cover skeletons, failed sources hidden, Enter searches right away"
+    "Global search: faster, cover skeletons, failed sources hidden, Enter searches right away, Library-style spacing"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
