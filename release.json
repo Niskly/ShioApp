@@ -1,18 +1,19 @@
 {
-  "version": "1.18.4",
-  "versionCode": 42,
+  "version": "1.19.0",
+  "versionCode": 43,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
-    "Notifications every 30 min, wait for internet when offline",
-    "Fixed App lock Lock after",
-    "Fixed MangaDNA pages",
-    "Hide novels in our sources",
-    "Fixed extensions failing to load chapters / episodes",
-    "Reader: no reload when scrolling back, preload setting",
-    "Videos start as soon as the first server is ready",
-    "AniList anime gets servers from your anime extensions",
-    "Bold series titles everywhere"
+    "AniList anime gets servers from anime extensions",
+    "Bold titles everywhere, Sources grouped by Manga/Anime and language",
+    "Notifications look like History, check every 30 min by default (15/30/60/180/daily)",
+    "Devices: tap a row to sign out",
+    "Videos start on the first ready server",
+    "Extension filter sheet colours, fixed 'lateinit url' error",
+    "Reader: no reload when scrolling back, new Preload setting",
+    "App lock 'Lock after' fixed",
+    "Novels hidden from source lists, MangaDNA pages fixed, clearer extension errors",
+    "Global search: faster, cover skeletons, failed sources hidden, Enter searches right away"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
