@@ -1,23 +1,26 @@
 {
-  "version": "1.21.0",
-  "versionCode": 45,
+  "version": "1.22.0",
+  "versionCode": 46,
   "date": "2026-11-09",
   "min_android": "8.0",
   "notes": [
+    "Character and staff pages (tap any character, voice actor or staff member)",
+    "Characters and Staff rows on anime and manga series pages",
+    "New Stats page: totals, activity grid, streaks, status, genres, most read",
+    "Profile: Settings button top right, Content row opens the Content tab",
     "AniList anime gets servers from anime extensions",
     "Bold titles everywhere, Sources grouped by Manga/Anime and language",
     "Notifications look like History, check every 30 min by default",
     "Devices: tap a row to sign out",
     "Videos start on the first ready server",
-    "Extension filter sheet colours, fixed 'lateinit url' error",
     "Reader: no reload when scrolling back, new Preload setting",
     "App lock 'Lock after' fixed",
     "Novels hidden from source lists, MangaDNA fixed, clearer extension errors",
-    "Global search: faster, cover skeletons, failed sources hidden, Library spacing",
+    "Global search: faster, cover skeletons, peek cards, failed sources hidden",
     "Browse: In library filter in the sort menu",
-    "Pull down to refresh on Browse, sources, series pages and Notifications",
+    "Pull down to refresh on more pages",
     "Back swipe animation",
-    "Font cards under themes in Appearance, cleaner welcome font picker"
+    "Font cards under themes in Appearance"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
