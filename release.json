@@ -1,11 +1,13 @@
-{
-  "version": "1.31.4",
-  "versionCode": 61,
-  "date": "2026-11-09",
-  "min_android": "8.0",
-  "notes": [
-    "Novel downloads, novel extensions fixed, Shio folder required, no Comick chapter fetch, novel card fixes, separate manga and novel reader settings"
-  ],
-  "captcha_url": "https://shio-captcha.shioapp.workers.dev",
-  "lists_version": 202611081521
+﻿{
+    "version":  "1.31.5",
+    "versionCode":  62,
+    "date":  "2026-11-10",
+    "min_android":  "8.0",
+    "notes":  [
+                  "Notifications: daily check, refresh shows today\u0027s chapters",
+                  "Pick which statuses to check",
+                  "Source names stay on one line"
+              ],
+    "captcha_url":  "https://shio-captcha.shioapp.workers.dev",
+    "lists_version":  202611081521
 }
