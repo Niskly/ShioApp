@@ -1,12 +1,11 @@
 ﻿{
-    "version":  "1.31.5",
-    "versionCode":  62,
+    "version":  "1.31.6",
+    "versionCode":  63,
     "date":  "2026-11-10",
     "min_android":  "8.0",
     "notes":  [
-                  "Notifications: daily check, refresh shows today\u0027s chapters",
-                  "Pick which statuses to check",
-                  "Source names stay on one line"
+                  "Video player swipe controls",
+                  "Brightness and volume overlay improvements"
               ],
     "captcha_url":  "https://shio-captcha.shioapp.workers.dev",
     "lists_version":  202611081521
