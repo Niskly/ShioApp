@@ -1,12 +1,10 @@
 ﻿{
-    "version":  "1.31.7",
-    "versionCode":  64,
+    "version":  "1.31.8",
+    "versionCode":  65,
     "date":  "2026-11-17",
     "min_android":  "8.0",
     "notes":  [
-                  "Notification refresh and loading improvements",
-                  "Anime series page metadata and character/staff fixes",
-                  "Manga extension and video player fixes"
+                  "Anime player fixes and improvements"
               ],
     "captcha_url":  "https://shio-captcha.shioapp.workers.dev",
     "lists_version":  202611081521
