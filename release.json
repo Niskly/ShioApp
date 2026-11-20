@@ -1,13 +1,13 @@
-{
-  "version": "1.31.13",
-  "versionCode": 70,
-  "date": "2026-11-20",
-  "min_android": "8.0",
-  "notes": [
-    "Fixed reader source labels and episode layout",
-    "Made series genres and tags open filtered Browse pages",
-    "Fixed manga and novel reader settings footer behavior"
-  ],
-  "captcha_url": "https://shio-captcha.shioapp.workers.dev",
-  "lists_version": 202611081521
+﻿{
+    "version":  "1.31.14",
+    "versionCode":  71,
+    "date":  "2026-11-20",
+    "min_android":  "8.0",
+    "notes":  [
+                  "Added New Chapters sections to Anime and Novel",
+                  "Fixed Lock group so it stays saved across chapters",
+                  "Improved reader settings and update handling"
+              ],
+    "captcha_url":  "https://shio-captcha.shioapp.workers.dev",
+    "lists_version":  202611081521
 }
