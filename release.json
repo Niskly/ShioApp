@@ -1,10 +1,10 @@
 {
-  "version": "1.31.19",
-  "versionCode": 76,
+  "version": "1.31.20",
+  "versionCode": 77,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Cloudflare cookie fix for Asura, extensions grouped by Repo · Language, logo+Shio title, mode circle, UI styles"
+    "Covers page for manga series, Cloudflare cookie fix, extensions grouped by Repo · Language, logo+Shio title, mode circle, UI styles"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
