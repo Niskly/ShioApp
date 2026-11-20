@@ -1,10 +1,10 @@
 {
-  "version": "1.31.21",
-  "versionCode": 78,
+  "version": "1.31.22",
+  "versionCode": 79,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Bubble UI fixes, logo text color, covers rounded in bubble, style preview shapes, Cloudflare cookie fix"
+    "Fix extension pages: auto-retry after warming details state (Asura, Refresh chapter list)"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
