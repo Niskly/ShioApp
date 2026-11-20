@@ -1,10 +1,10 @@
 {
-  "version": "1.31.18",
-  "versionCode": 75,
-  "date": "2026-11-20",
+  "version": "1.31.19",
+  "versionCode": 76,
+  "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "About page, Safe filter, Extensions header, monochrome icon fix, skeleton fix, AniList rate limited"
+    "Cloudflare cookie fix for Asura, extensions grouped by Repo · Language, logo+Shio title, mode circle, UI styles"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
