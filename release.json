@@ -1,12 +1,13 @@
-﻿{
-    "version":  "1.31.12",
-    "versionCode":  69,
-    "date":  "2026-11-20",
-    "min_android":  "8.0",
-    "notes":  [
-                  "Fixed the manga and novel reader settings layout",
-                  "Fixed the 5-second seek overlay and server switching"
-              ],
-    "captcha_url":  "https://shio-captcha.shioapp.workers.dev",
-    "lists_version":  202611081521
+{
+  "version": "1.31.13",
+  "versionCode": 70,
+  "date": "2026-11-20",
+  "min_android": "8.0",
+  "notes": [
+    "Fixed reader source labels and episode layout",
+    "Made series genres and tags open filtered Browse pages",
+    "Fixed manga and novel reader settings footer behavior"
+  ],
+  "captcha_url": "https://shio-captcha.shioapp.workers.dev",
+  "lists_version": 202611081521
 }
