@@ -1,11 +1,10 @@
 {
-  "version": "1.31.49",
-  "versionCode": 106,
+  "version": "1.32.0",
+  "versionCode": 107,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Infinite scroll implementation, better preload icons",
-    "--minor"
+    "Infinite scroll reader, decorations from GitHub CDN, auto-next countdown overlay, hide skip btn when auto skip on, bottom nav --bg, UI style renamed, ribbon fixes, swipe-to-delete history, reader settings improvements"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
