@@ -1,10 +1,10 @@
 {
-  "version": "1.31.25",
-  "versionCode": 82,
+  "version": "1.31.26",
+  "versionCode": 83,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Anime continue watching matches manga/novel card style, back animation, Asura API rewrite, extension memo fix, navbar, UI style fixes"
+    "Fix black text, animated navbar, bubble bar transparent, circle position"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
