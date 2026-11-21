@@ -1,6 +1,6 @@
 {
-  "version": "1.31.31",
-  "versionCode": 88,
+  "version": "1.31.32",
+  "versionCode": 89,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
@@ -13,7 +13,11 @@
     "Fixed custom-theme launcher backgrounds and startup splash",
     "Matched novel reader settings to the standard settings style",
     "Matched global-search skeleton rows to Home card peeking",
-    "Changed input placeholder text to muted theme colors"
+    "Changed input placeholder text to muted theme colors",
+    "Moved Check for updates below Website in About",
+    "Unified back-button handling and page transition timing",
+    "Rounded the player Sub and Dub selector in Bubble style",
+    "Added full-screen Intro and Outro skip feedback with controls hidden"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
