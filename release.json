@@ -1,10 +1,10 @@
 {
-  "version": "1.31.43",
-  "versionCode": 100,
+  "version": "1.31.46",
+  "versionCode": 103,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Fix missing background import for swipe-to-delete"
+    "Rename ribbon toggle to Ribbon Progress, always show progress bar, swipe-to-delete history"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
