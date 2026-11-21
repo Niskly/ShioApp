@@ -1,10 +1,10 @@
 {
-  "version": "1.31.26",
-  "versionCode": 83,
+  "version": "1.31.27",
+  "versionCode": 84,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Fix black text, animated navbar, bubble bar transparent, circle position"
+    "Bubble navbar notched pill shape around mode circle"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
