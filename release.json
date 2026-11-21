@@ -1,10 +1,10 @@
 {
-  "version": "1.31.28",
-  "versionCode": 85,
+  "version": "1.31.29",
+  "versionCode": 86,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Notched pill with visible gap, same notch on default bar, correct tap corner shapes"
+    "Notched pill navbar, bubble fixes, back animation, folder picker crash fix, browse grid, episode thumbnails, Asura API rewrite, extension memo fix, anime continue watching cards, covers page"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
