@@ -1,10 +1,12 @@
 {
-  "version": "1.31.37",
-  "versionCode": 94,
+  "version": "1.31.38",
+  "versionCode": 95,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Reader settings: fix LTR/RTL labels, page gap and side padding now toggle on/off"
+    "Added diagonal Trending rank ribbons across all Home pages",
+    "Added saved reading progress and chapter or episode ribbons to new updates",
+    "Scaled card ribbons and progress details for 2-card and 3-card layouts"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
