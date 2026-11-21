@@ -1,10 +1,11 @@
 {
-  "version": "1.31.48",
-  "versionCode": 105,
+  "version": "1.31.49",
+  "versionCode": 106,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Auto-next countdown matches skip overlay, double tap to cancel"
+    "Infinite scroll implementation, better preload icons",
+    "--minor"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
