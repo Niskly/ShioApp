@@ -1,14 +1,19 @@
 {
-  "version": "1.31.30",
-  "versionCode": 87,
+  "version": "1.31.31",
+  "versionCode": 88,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Anime and novel browse grids now match manga",
-    "Fixed bottom navigation curves and mode lettering",
-    "Fixed Bubble UI shapes and leaking backgrounds",
-    "Rounded anime player panel headers",
-    "Fixed player progress thumb and episode progress bar spacing"
+    "Matched anime and novel browse grids to manga",
+    "Fixed Bubble tags, player shapes, and leaking backgrounds",
+    "Fixed bottom navbar curves, hover highlights, and mode lettering",
+    "Fixed episode progress bar width and spacing",
+    "Extended player panel headers across safe areas without moving controls",
+    "Fixed notification logo size and theme colors",
+    "Fixed custom-theme launcher backgrounds and startup splash",
+    "Matched novel reader settings to the standard settings style",
+    "Matched global-search skeleton rows to Home card peeking",
+    "Changed input placeholder text to muted theme colors"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
