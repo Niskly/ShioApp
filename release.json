@@ -1,10 +1,10 @@
 {
-  "version": "1.31.22",
-  "versionCode": 79,
+  "version": "1.31.23",
+  "versionCode": 80,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Fix extension pages: auto-retry after warming details state (Asura, Refresh chapter list)"
+    "Fix extension pages: save and restore chapter memo (Asura, Refresh Chapter List fixed)"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
