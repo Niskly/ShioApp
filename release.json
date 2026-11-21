@@ -1,10 +1,14 @@
 {
-  "version": "1.31.29",
-  "versionCode": 86,
+  "version": "1.31.30",
+  "versionCode": 87,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Notched pill navbar, bubble fixes, back animation, folder picker crash fix, browse grid, episode thumbnails, Asura API rewrite, extension memo fix, anime continue watching cards, covers page"
+    "Anime and novel browse grids now match manga",
+    "Fixed bottom navigation curves and mode lettering",
+    "Fixed Bubble UI shapes and leaking backgrounds",
+    "Rounded anime player panel headers",
+    "Fixed player progress thumb and episode progress bar spacing"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
