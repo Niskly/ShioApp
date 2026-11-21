@@ -1,10 +1,10 @@
 {
-  "version": "1.31.24",
-  "versionCode": 81,
+  "version": "1.31.25",
+  "versionCode": 82,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Rewrite local Asura source to use API (no Cloudflare), fix extension chapter memo for Refresh Chapter List"
+    "Anime continue watching matches manga/novel card style, back animation, Asura API rewrite, extension memo fix, navbar, UI style fixes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
