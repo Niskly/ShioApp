@@ -1,10 +1,10 @@
 {
-  "version": "1.31.36",
-  "versionCode": 93,
+  "version": "1.31.37",
+  "versionCode": 94,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Made all checkbox indicators circular in Bubble UI while preserving square indicators in other styles"
+    "Reader settings: fix LTR/RTL labels, page gap and side padding now toggle on/off"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
