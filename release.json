@@ -1,12 +1,10 @@
 {
-  "version": "1.31.38",
-  "versionCode": 95,
+  "version": "1.31.39",
+  "versionCode": 96,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Added diagonal Trending rank ribbons across all Home pages",
-    "Added saved reading progress and chapter or episode ribbons to new updates",
-    "Scaled card ribbons and progress details for 2-card and 3-card layouts"
+    "Ribbon text stroke outline, hide ribbon when same as left label, checkbox border --text, reader settings fixes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
