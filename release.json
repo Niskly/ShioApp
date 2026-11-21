@@ -1,10 +1,10 @@
 {
-  "version": "1.31.39",
-  "versionCode": 96,
+  "version": "1.31.40",
+  "versionCode": 97,
   "date": "2026-11-21",
   "min_android": "8.0",
   "notes": [
-    "Ribbon text stroke outline, hide ribbon when same as left label, checkbox border --text, reader settings fixes"
+    "Ribbon text --text with thin --border outline, checkbox border --text, reader settings fixes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
