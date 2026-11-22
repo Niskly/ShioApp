@@ -1,15 +1,11 @@
 {
-  "version": "1.32.5",
-  "versionCode": 112,
+  "version": "1.32.6",
+  "versionCode": 113,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
-    "Rinko: fix chapter images (new ComicWorld theme)",
-    "Home card ribbon: match webapp style",
-    "Trending row: no rank ribbon",
-    "Reader: no reload when scrolling back",
-    "GenzToon: fix AVIF images",
-    "Nuvia: new domain and API (nuviatoon.org)"
+    "Nuvia: new domain and API (nuviatoon.org), updated logo",
+    "Repos: use GitHub owner as name, edit repos in sheet"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
