@@ -1,11 +1,11 @@
 {
-  "version": "1.32.10",
-  "versionCode": 117,
+  "version": "1.32.11",
+  "versionCode": 118,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
     "Every input: AppField floating label style",
-    "Browse manga: tags filter (fixed search + fixed height, no layout jump)",
+    "Browse manga: tags filter with fixed 240dp box, search + empty states",
     "Browse: collapsible filter sections",
     "Nuvia: new domain + API + logo",
     "Repos: GitHub owner name, edit sheet",
