@@ -1,14 +1,13 @@
 {
-  "version": "1.32.9",
-  "versionCode": 116,
+  "version": "1.32.10",
+  "versionCode": 117,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
-    "Browse: collapsible filter sections matching extension filter style",
-    "Browse manga: tags filter with search",
-    "Filter inputs: panel2 bg, no border, --muted placeholder",
-    "Year fields: match search input style",
-    "Nuvia: new domain, API and logo",
+    "Every input: AppField floating label style",
+    "Browse manga: tags filter (fixed search + fixed height, no layout jump)",
+    "Browse: collapsible filter sections",
+    "Nuvia: new domain + API + logo",
     "Repos: GitHub owner name, edit sheet",
     "Rinko: fix chapter images",
     "GenzToon: fix AVIF images"
