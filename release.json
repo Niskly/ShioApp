@@ -1,12 +1,18 @@
 {
-  "version": "1.32.7",
-  "versionCode": 114,
+  "version": "1.32.8",
+  "versionCode": 115,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
     "Nuvia: new domain, API and logo (nuviatoon.org)",
     "Repos: GitHub owner as name, edit sheet with Save+Remove",
-    "Text inputs: panel2 bg, --text label, --muted placeholder"
+    "Browse: collapsible filter sections (manga, anime, novel)",
+    "Manga browse: tags filter with search",
+    "Text inputs: panel2 bg, floating label --text, placeholder --muted",
+    "Extension filter sheet: Reset+Apply same row",
+    "Rinko: fix chapter images (ComicWorld theme)",
+    "GenzToon: fix AVIF images",
+    "Home card ribbon: match webapp, no trending rank"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
