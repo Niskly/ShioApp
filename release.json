@@ -1,11 +1,12 @@
 {
-  "version": "1.32.6",
-  "versionCode": 113,
+  "version": "1.32.7",
+  "versionCode": 114,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
-    "Nuvia: new domain and API (nuviatoon.org), updated logo",
-    "Repos: use GitHub owner as name, edit repos in sheet"
+    "Nuvia: new domain, API and logo (nuviatoon.org)",
+    "Repos: GitHub owner as name, edit sheet with Save+Remove",
+    "Text inputs: panel2 bg, --text label, --muted placeholder"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
