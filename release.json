@@ -1,12 +1,13 @@
 {
-  "version": "1.32.11",
-  "versionCode": 118,
+  "version": "1.32.12",
+  "versionCode": 119,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
     "Every input: AppField floating label style",
-    "Browse manga: tags filter with fixed 240dp box, search + empty states",
-    "Browse: collapsible filter sections",
+    "Browse/Library: collapsible filter sections",
+    "Browse manga: tags filter with search",
+    "Browse anime: separate Genres + Tags sections",
     "Nuvia: new domain + API + logo",
     "Repos: GitHub owner name, edit sheet",
     "Rinko: fix chapter images",
