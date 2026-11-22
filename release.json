@@ -1,17 +1,11 @@
 {
-  "version": "1.32.12",
-  "versionCode": 119,
+  "version": "1.32.13",
+  "versionCode": 120,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
-    "Every input: AppField floating label style",
-    "Browse/Library: collapsible filter sections",
-    "Browse manga: tags filter with search",
-    "Browse anime: separate Genres + Tags sections",
-    "Nuvia: new domain + API + logo",
-    "Repos: GitHub owner name, edit sheet",
-    "Rinko: fix chapter images",
-    "GenzToon: fix AVIF images"
+    "Home 3-dot menus (manga/anime/novel): no reload when picking active option",
+    "Novel reader: same end card as manga reader"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
