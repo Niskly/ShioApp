@@ -1,11 +1,15 @@
 {
-  "version": "1.32.13",
-  "versionCode": 120,
+  "version": "1.32.14",
+  "versionCode": 121,
   "date": "2026-11-22",
   "min_android": "8.0",
   "notes": [
-    "Home 3-dot menus (manga/anime/novel): no reload when picking active option",
-    "Novel reader: same end card as manga reader"
+    "Series page --bg color + AMOLED",
+    "Chapter/episode search in series pages",
+    "Subtitle outline style matches app",
+    "Player bar labels in fullscreen",
+    "Theme navbar/search color fixes",
+    "Matcha theme replaces Leaf"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
