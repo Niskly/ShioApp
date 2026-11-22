@@ -1,15 +1,15 @@
 {
-  "version": "1.32.16",
-  "versionCode": 123,
-  "date": "2026-11-22",
+  "version": "1.32.17",
+  "versionCode": 124,
+  "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
-    "Series page --bg color + AMOLED",
+    "Series page --bg + AMOLED, scroll restored on back",
     "Chapter/episode search in series pages",
-    "Subtitle outline style matches app",
-    "Player bar labels in fullscreen",
-    "Theme navbar/search color fixes",
-    "Matcha theme replaces Leaf"
+    "WebView opens in-app for Comick, AniList, novel",
+    "Fix library Last opened sort",
+    "Fix source logo circle clip in bubble style",
+    "Remove glitchy pull-to-refresh from browse"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
