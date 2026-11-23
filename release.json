@@ -1,11 +1,11 @@
 {
-  "version": "1.32.20",
-  "versionCode": 127,
+  "version": "1.32.21",
+  "versionCode": 128,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
     "Fix extension/source logo circle in bubble style",
-    "Add Last updated sort to library",
+    "Remove duplicate Last updated library sort",
     "Fix series page scroll position restored on back"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
