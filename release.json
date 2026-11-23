@@ -1,11 +1,13 @@
 {
-  "version": "1.32.23",
-  "versionCode": 130,
+  "version": "1.32.25",
+  "versionCode": 132,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
-    "Fix extension/source logo circle in bubble style",
-    "Remove duplicate Last updated library sort"
+    "Fix extension/source icon clipping in bubble style",
+    "Cache deco to disk, no flash on cold start",
+    "Guest profile button is plain icon, no accent circle",
+    "Themed notification large icon"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
