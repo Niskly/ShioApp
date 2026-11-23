@@ -1,16 +1,12 @@
 {
-  "version": "1.32.18",
-  "versionCode": 125,
+  "version": "1.32.20",
+  "versionCode": 127,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
-    "Sources page: remove chip icons, swap active/inactive colors",
-    "Series page --bg + AMOLED, scroll restored on back",
-    "Chapter/episode search in series pages",
-    "WebView opens in-app for Comick, AniList, novel",
-    "Fix library Last opened sort",
-    "Fix source logo circle clip in bubble style",
-    "Remove glitchy pull-to-refresh from browse"
+    "Fix extension/source logo circle in bubble style",
+    "Add Last updated sort to library",
+    "Fix series page scroll position restored on back"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
