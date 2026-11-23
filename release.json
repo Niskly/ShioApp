@@ -1,15 +1,12 @@
 {
-  "version": "1.32.26",
-  "versionCode": 133,
+  "version": "1.32.28",
+  "versionCode": 135,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
-    "Fix extension/source icon clipping in bubble style",
-    "Cache deco to disk, no flash on cold start",
-    "Guest profile button is plain icon",
-    "Themed notification large icon",
-    "Grid/list toggle in episode header",
-    "Episodes header without Sources prefix"
+    "Notifications: daily check, refresh shows today's chapters",
+    "Pick which statuses to check",
+    "Source names stay on one line"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
