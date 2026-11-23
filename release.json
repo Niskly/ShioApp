@@ -1,13 +1,15 @@
 {
-  "version": "1.32.25",
-  "versionCode": 132,
+  "version": "1.32.26",
+  "versionCode": 133,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
     "Fix extension/source icon clipping in bubble style",
     "Cache deco to disk, no flash on cold start",
-    "Guest profile button is plain icon, no accent circle",
-    "Themed notification large icon"
+    "Guest profile button is plain icon",
+    "Themed notification large icon",
+    "Grid/list toggle in episode header",
+    "Episodes header without Sources prefix"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
