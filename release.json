@@ -1,10 +1,10 @@
 {
-  "version": "1.33.3",
-  "versionCode": 139,
+  "version": "1.33.5",
+  "versionCode": 141,
   "date": "2026-11-23",
   "min_android": "8.0",
   "notes": [
-    "test"
+    "bottom navbar"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
