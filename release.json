@@ -1,12 +1,15 @@
 {
-  "version": "1.34.2",
-  "versionCode": 155,
+  "version": "1.34.3",
+  "versionCode": 156,
   "date": "2026-11-24",
   "min_android": "8.0",
   "notes": [
+    "Popups no longer close while you scroll in them",
+    "New default font",
     "Continue with Google on the login page",
     "Long-press the app icon for Search, Library and History",
     "Continue widget for your home screen",
+    "App icon shortcuts follow your theme",
     "Smoother swipe to delete in History, now also in Downloads",
     "Library: sort by latest chapter",
     "New Chapters and chapter notifications work without connecting Comick",
