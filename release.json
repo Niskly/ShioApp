@@ -1,10 +1,12 @@
 {
-  "version": "1.33.5",
-  "versionCode": 141,
-  "date": "2026-11-23",
+  "version": "1.33.6",
+  "versionCode": 142,
+  "date": "2026-11-24",
   "min_android": "8.0",
   "notes": [
-    "bottom navbar"
+    "Recently Updated loads automatically",
+    "New Series switcher on Home",
+    "Bottom spacing fix"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
