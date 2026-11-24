@@ -1,13 +1,10 @@
 {
-  "version": "1.33.8",
-  "versionCode": 144,
+  "version": "1.33.10",
+  "versionCode": 146,
   "date": "2026-11-24",
   "min_android": "8.0",
   "notes": [
-    "Manga Home: New Series (Recently / Completed) is now a switcher with a 3-dot menu and a row of 20 cards, placed above Recently Updated",
-    "Bottom bar mode circle has a border in both nav styles",
-    "Bubble style: source and extension icons are circles",
-    "Sources: active Local / Outsourced tab is the accent color"
+    "¨Circle"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
