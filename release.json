@@ -1,9 +1,11 @@
 {
-  "version": "1.33.11",
-  "versionCode": 147,
+  "version": "1.33.12",
+  "versionCode": 148,
   "date": "2026-11-24",
   "min_android": "8.0",
   "notes": [
+    "New Chapters works without connecting Comick (from your library)",
+    "Notifications show the series cover or the themed Shio icon",
     "Every extension in the default repos now works with Shio (MangaPlus, MangaUp, page unscrambling, Jellyfin CBZ)",
     "An extension that crashes no longer stops Shio from opening",
     "Fixed Shio closing the first time you pick a folder or file",
