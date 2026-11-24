@@ -1,10 +1,16 @@
 {
-  "version": "1.33.10",
-  "versionCode": 146,
+  "version": "1.33.11",
+  "versionCode": 147,
   "date": "2026-11-24",
   "min_android": "8.0",
   "notes": [
-    "¨Circle"
+    "Every extension in the default repos now works with Shio (MangaPlus, MangaUp, page unscrambling, Jellyfin CBZ)",
+    "An extension that crashes no longer stops Shio from opening",
+    "Fixed Shio closing the first time you pick a folder or file",
+    "Manga Home: New Series switcher placed above Recently Updated",
+    "Bottom bar mode circle has a border",
+    "Circular style: source and extension icons are round",
+    "Sources: active Local / Outsourced tab is the accent color"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
