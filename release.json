@@ -1,6 +1,6 @@
 {
-  "version": "1.42.5",
-  "versionCode": 174,
+  "version": "1.42.6",
+  "versionCode": 175,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
@@ -10,6 +10,7 @@
     "Add account no longer flashes the guest profile behind it",
     "Profile picker: tiles wrap to a second row instead of squeezing on narrow phones, and show avatar decorations",
     "Status and navigation bars follow your theme from the first frame",
+    "Loading button while signing in follows your UI style",
     "Characters and Staff circles have no outline, like avatars",
     "Export: checkboxes with the site logo and name, Full backup without a logo",
     "Switches, Remove from library and update notes follow your UI style",
