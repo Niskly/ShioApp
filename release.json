@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "versionCode": 167,
+  "version": "1.41.0",
+  "versionCode": 168,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
@@ -11,7 +11,8 @@
     "Tabs use the same page animation as opening a series",
     "Bottom bar and sheets fit phones with a gesture pill",
     "2 cards per row by default (Settings → Appearance)",
-    "Black outlines on buttons, covers, cards and fields; turn them off in Settings → Appearance → Outlines"
+    "Black outlines on buttons, covers, cards and fields, drawn cleanly over the cover; turn them off in Settings → Appearance → Outlines",
+    "Who's reading? has a short description under the title"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
