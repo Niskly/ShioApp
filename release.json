@@ -1,14 +1,17 @@
 {
-  "version": "1.42.1",
-  "versionCode": 170,
+  "version": "1.42.2",
+  "versionCode": 171,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
-    "Sheets follow your UI style: rounded top in Circular and Squircle, with checkboxes, rows and switches matching",
-    "Checkboxes keep their size when selected",
-    "Update alerts: a separate background check every 3 hours, so a new version notifies you without opening the app",
-    "Tapping the update notification opens the update sheet",
-    "Edit profile → Decoration: the active category is now the highlighted one"
+    "Sheets slide away when you pick an option, not only when you close them",
+    "Home: rows no longer jump when covers finish loading",
+    "Profile: the guest avatar sits at the same height as when you're signed in, and section headers are white",
+    "Add account no longer flashes the guest profile behind it",
+    "Characters and Staff circles have no outline, like avatars",
+    "Export: checkboxes with the site logo and name, Full backup without a logo",
+    "Switches, Remove from library and update notes follow your UI style",
+    "Update notification opens the update sheet"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
