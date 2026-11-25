@@ -1,14 +1,12 @@
 {
-  "version": "1.34.6",
-  "versionCode": 159,
+  "version": "1.34.7",
+  "versionCode": 160,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
-    "New launch intro: Shio turns into marker lines that form the logo (Settings → Advanced to turn off)",
-    "No more wrong-colour logo on the launch screen",
-    "Smoother page animations on older phones",
-    "Player: captions and Skip intro move with the controls, no early jump",
-    "Player: outlined play/pause and Skip intro buttons"
+    "Intro now goes logo → marker lines → Shio, picking up right where the launch screen left off",
+    "Launch screen uses your theme's logo again (no more faded icon)",
+    "Player: play/pause and Skip intro use the normal app outline"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
