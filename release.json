@@ -1,6 +1,6 @@
 {
-  "version": "1.37.0",
-  "versionCode": 163,
+  "version": "1.38.0",
+  "versionCode": 164,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
@@ -11,7 +11,8 @@
     "Saved logins are encrypted on the phone",
     "New widgets: This week and Streak, plus cleaner History, Library, Profile and Search widgets",
     "Library and Browse go back to the top when you change filters, sort or search",
-    "Avatars are always round, buttons follow your UI style"
+    "Avatars are always round, buttons follow your UI style",
+    "Cleaner login and Who's reading? headers"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
