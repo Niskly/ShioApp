@@ -1,14 +1,17 @@
 {
-  "version": "1.39.0",
-  "versionCode": 166,
+  "version": "1.40.0",
+  "versionCode": 167,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
     "Widgets can be resized taller; Search widget: logo on the left, no icon",
     "Fixed empty profile photo for signed-in accounts in Switch profile",
     "Edit profile: cleaner header, status bar matches the page",
-    "Sign in: 'or' divider is now white",
-    "Same page animation for Switch profile and Edit profile; consistent back arrow position"
+    "Back arrow in the same spot on every page",
+    "Tabs use the same page animation as opening a series",
+    "Bottom bar and sheets fit phones with a gesture pill",
+    "2 cards per row by default (Settings → Appearance)",
+    "Black outlines on buttons, covers, cards and fields; turn them off in Settings → Appearance → Outlines"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
