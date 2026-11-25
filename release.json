@@ -1,14 +1,14 @@
 {
-  "version": "1.38.1",
-  "versionCode": 165,
+  "version": "1.39.0",
+  "versionCode": 166,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
-    "Add account: the login opens right in Who's reading?, nothing switches until you sign in",
-    "New profiles start with your current theme and settings",
-    "The profile you're on has a white ring, account photo shows right away when switching",
-    "Widgets: phone-style corners, no outline, cleaner headers, no stretching",
-    "Cleaner login and Who's reading? headers"
+    "Widgets can be resized taller; Search widget: logo on the left, no icon",
+    "Fixed empty profile photo for signed-in accounts in Switch profile",
+    "Edit profile: cleaner header, status bar matches the page",
+    "Sign in: 'or' divider is now white",
+    "Same page animation for Switch profile and Edit profile; consistent back arrow position"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
