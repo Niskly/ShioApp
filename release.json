@@ -1,6 +1,6 @@
 {
-  "version": "1.42.2",
-  "versionCode": 171,
+  "version": "1.42.3",
+  "versionCode": 172,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
@@ -8,6 +8,8 @@
     "Home: rows no longer jump when covers finish loading",
     "Profile: the guest avatar sits at the same height as when you're signed in, and section headers are white",
     "Add account no longer flashes the guest profile behind it",
+    "Profile picker: tiles wrap to a second row instead of squeezing on narrow phones",
+    "Status and navigation bars follow your theme",
     "Characters and Staff circles have no outline, like avatars",
     "Export: checkboxes with the site logo and name, Full backup without a logo",
     "Switches, Remove from library and update notes follow your UI style",
