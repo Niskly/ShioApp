@@ -1,15 +1,17 @@
 {
-  "version": "1.36.0",
-  "versionCode": 162,
+  "version": "1.37.0",
+  "versionCode": 163,
   "date": "2026-11-25",
   "min_android": "8.0",
   "notes": [
-    "Profiles: Who's reading? with Guest and multiple accounts, each with its own library",
-    "Classic profile icons in your theme colour",
+    "Profiles: Who's reading? with Guest and multiple accounts",
+    "Each profile has its own library, settings, theme, content rating, downloads, notifications and video positions",
     "Profile lock: app lock per profile",
-    "Avatars are always round",
+    "Classic profile icons in your theme colour",
+    "Saved logins are encrypted on the phone",
+    "New widgets: This week and Streak, plus cleaner History, Library, Profile and Search widgets",
     "Library and Browse go back to the top when you change filters, sort or search",
-    "Buttons follow your UI style"
+    "Avatars are always round, buttons follow your UI style"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
