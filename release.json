@@ -1,22 +1,12 @@
 {
-  "version": "1.42.9",
-  "versionCode": 178,
-  "date": "2026-11-26",
+  "version": "1.42.10",
+  "versionCode": 179,
+  "date": "2026-11-27",
   "min_android": "8.0",
   "notes": [
-    "Fixed a crash when pressing back on a WebView page",
-    "Custom themes: launcher icon and launch screen match light themes too",
-    "Verify email and forgot password use a 6-digit code: type it in the app, tap a box to fix a digit",
-    "Sheets open and close smoothly: no popping up, jumping or blinking, and they slide away when you pick an option",
-    "Home: rows no longer jump when covers finish loading",
-    "Profile: the guest avatar sits at the same height as when you're signed in, and section headers are white",
-    "Add account no longer flashes the guest profile behind it",
-    "Profile picker: tiles wrap to a second row instead of squeezing on narrow phones, and show avatar decorations",
-    "Status and navigation bars follow your theme from the first frame",
-    "Loading button while signing in follows your UI style",
-    "Characters and Staff circles have no outline, like avatars",
-    "Export: checkboxes with the site logo and name, Full backup without a logo",
-    "Update notification opens the update sheet"
+    "Ui changes",
+    "New app logo",
+    "New themes"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
