@@ -1,9 +1,11 @@
 {
-  "version": "1.42.6",
-  "versionCode": 175,
-  "date": "2026-11-25",
+  "version": "1.42.7",
+  "versionCode": 176,
+  "date": "2026-11-26",
   "min_android": "8.0",
   "notes": [
+    "Custom themes: launcher icon and launch screen match light themes too",
+    "Verify email and forgot password use a 6-digit code: type it in the app, tap a box to fix a digit",
     "Sheets open and close smoothly: no popping up, jumping or blinking, and they slide away when you pick an option",
     "Home: rows no longer jump when covers finish loading",
     "Profile: the guest avatar sits at the same height as when you're signed in, and section headers are white",
@@ -13,7 +15,6 @@
     "Loading button while signing in follows your UI style",
     "Characters and Staff circles have no outline, like avatars",
     "Export: checkboxes with the site logo and name, Full backup without a logo",
-    "Switches, Remove from library and update notes follow your UI style",
     "Update notification opens the update sheet"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
