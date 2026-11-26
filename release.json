@@ -1,9 +1,10 @@
 {
-  "version": "1.42.7",
-  "versionCode": 176,
+  "version": "1.42.8",
+  "versionCode": 177,
   "date": "2026-11-26",
   "min_android": "8.0",
   "notes": [
+    "Fixed a crash when pressing back on a WebView page",
     "Custom themes: launcher icon and launch screen match light themes too",
     "Verify email and forgot password use a 6-digit code: type it in the app, tap a box to fix a digit",
     "Sheets open and close smoothly: no popping up, jumping or blinking, and they slide away when you pick an option",
