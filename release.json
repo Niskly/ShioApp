@@ -1,12 +1,10 @@
 {
-  "version": "1.42.10",
-  "versionCode": 179,
+  "version": "1.43.0",
+  "versionCode": 181,
   "date": "2026-11-27",
   "min_android": "8.0",
   "notes": [
-    "Ui changes",
-    "New app logo",
-    "New themes"
+    "V1"
   ],
   "captcha_url": "https://shio-captcha.shioapp.workers.dev",
   "lists_version": 202611081521
